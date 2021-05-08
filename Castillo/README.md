@@ -31,4 +31,4 @@ Los elementos están creados con las texturas siguientes:
 
 ![2](D3.png)
 
-![3](D3.png)
+![3](D4.png)
