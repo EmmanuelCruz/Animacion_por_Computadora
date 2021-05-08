@@ -27,6 +27,11 @@ Entre otros.
 
 ----
 
+## Más Proyectos
+Algunos proyectos se encuentran en los siguientes enlaces, debido al tamaño y peso.
+* Castillo
+* Proyecto Final
+
 ## Nota importante.
 Los recursos están modelados y animados en Blender, por lo que se debe instalar el sofware necesario.
 
