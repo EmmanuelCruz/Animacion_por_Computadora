@@ -5,7 +5,7 @@ Representación de la pintura _Energía Cósmica (1956)_ por la pintora surreali
 
 ### Energía Cósmica
 
-![P](EnergiaCosmica.png)
+![P](EnergiaCosmica.jpg)
 
 ### Animación de Energía Cósmica.
 
