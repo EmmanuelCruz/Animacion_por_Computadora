@@ -11,3 +11,11 @@ Otros modelos están animados con huesos.
 ### Minico
 
 ![D1](D1.png)
+
+### Batman
+
+![D3](D3.png)
+
+### ARP
+
+![D4](D4.png)
